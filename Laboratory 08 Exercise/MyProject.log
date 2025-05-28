@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F628A -DL -O11111114 -fo8 -N"D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31421 – Microcontrollers and Embedded Electronics Laboratory\Laboratory 08 Exercise\MyProject.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"D:\(D) Documents\Lessons\Year 03 Sem 01\BECS 31421 – Microcontrollers and Embedded Electronics Laboratory\Laboratory 08 Exercise\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "MyProject.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_PWM_b3.mcl"	 
+hint: 0	1139	Available RAM: 208 [bytes], Available ROM: 2048 [bytes]	 
+diagnostics: 0	122	Compilation Started	MyProject.c
+diagnostics: 41	123	Compiled Successfully	MyProject.c
+hint: 6	1164	Variable 'duty_value' has been eliminated by optimizer	MyProject.c
+diagnostics: 0	127	All files Compiled in 171 ms	 
+hint: 0	1144	Used RAM (bytes): 7 (3%)  Free RAM (bytes): 201 (97%)	Used RAM (bytes): 7 (3%)  Free RAM (bytes): 201 (97%)
+hint: 0	1144	Used ROM (program words): 351 (17%)  Free ROM (program words): 1697 (83%)	Used ROM (program words): 351 (17%)  Free ROM (program words): 1697 (83%)
+diagnostics: 0	125	Project Linked Successfully	MyProject.mcppi
+diagnostics: 0	128	Linked in 32 ms	 
+diagnostics: 0	129	Project 'MyProject.mcppi' completed: 344 ms	 
+diagnostics: 0	103	Finished successfully: 23 May 2025, 15:10:52	MyProject.mcppi
